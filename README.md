@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Página de revisão da aula sobre git.
 ## Uso do Markdown
 
@@ -35,3 +36,6 @@ Lista de tarefas a fazer no repositório:
 ## Referências
 
 * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+=======
+Página de revisão da aula sobre git.
+>>>>>>> aff2a33aa1a319ac2cfc7cd3e7f74e5b6afabe54
